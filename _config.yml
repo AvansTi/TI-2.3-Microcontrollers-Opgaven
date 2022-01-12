@@ -1,0 +1,13 @@
+name: Object-Oriented Programming with Java part 1
+title: Object-Oriented Programming with Java part 1
+encoding: UTF-8
+markdown: kramdown
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+lsi: false
+safe: true
