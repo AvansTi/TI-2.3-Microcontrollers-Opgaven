@@ -7,14 +7,34 @@ todo:
 {% include licence.md %}
 ---
 
-## Week 4
+## Track 4: Signalen (ADC, DAC en PWM)
 
-Maak van alle elektronische hardware die je op het breadboard zet een foto voor referentie. Je kunt voor meer duidelijkheid ook een elektrisch schema tekenen. Neem de foto in je groeidocument op, op de momenten waarop je de schakeling op het breadboard verandert. Opgave die je fysiek op school moet maken zijn aangegeven met een tag *School*{: .badge .badge-primary }
+Beschrijf in een korte en bondige rapportage de uitwerking van de gemaakte opdrachten. Dit betekent per opdracht:
+* 2 a 3 zinnen met essentie van de opdracht
+* In het kort de gekozen oplossing aangevuld met essentiële code fragmenten (dus geen lappen code kopiëren!)
+* Reflectie op de gekozen oplossing aangevuld met ‘bewijs’ in de vorm van een foto en/of film (url’s naar bijvoorbeeld YouTube of MyMedia. Zorg dat wij ook toegang hebben!)
+* Link naar de repository waar de volledige code staat.
+* Alle code is voorzien zijn van zinvol commentaar.
 
-### Opdrachten BoeBot
-{% include_relative exercises/opgave-1.md %}
-{% include_relative exercises/opgave-2.md %}
-{% include_relative exercises/opgave-3.md %}
+Zet al jullie werk in een groeidocument. 
+
+**Let op:** bovenstaande kun je ook opnemen in je CV, bij het zoeken naar een stageplaats heb je deze nodig. Werk dus netjes!
+
+Relevante literatuur:
+* Datasheet ATmega128A, Atmel
+* AVR Instruction set , Atmel
+* BIGAVR6 / UNI-DS6 Manual, MikroElektronika
+* Phung, Getting started with C Programming for the ATMEL AVR Microcontroller (Google)
+* < 48 65 65 6c 20 68 65 74 20 69 6e 74 65 72 6e 65 74 >
+
+### Deel A: Literatuur
+Deze week niet van toepassing
+
+### Deel B: Coding:
+{% include_relative exercises/opgave-b1.md %}
+{% include_relative exercises/opgave-b2.md %}
+{% include_relative exercises/opgave-b3.md %}
+{% include_relative exercises/opgave-b4.md %}
 {: .exercises }
 
 
