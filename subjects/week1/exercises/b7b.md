@@ -19,13 +19,14 @@
 >> 
 >> Maar onderstaande tabel af:
 >>
->>	|	   |Pin 1 	|	Pin 2  		| Pin 3     |
->>	| LED1 |	  	|	Laag   		| Tri-state |
->>	| LED2 | Laag 	|		   		| Tri-State |
->>	| LED3 |	  	|				|			|
->>	| LED4 |	  	|				|			|
->>	| LED5 | Laag 	|	Tri-state 	|			|
->>	| LED6 |	  	|				|			|
+>>	|	   |   Pin 1	   |	Pin 2  	   |   Pin 3       |
+>>  |------|---------------|---------------|---------------|
+>>	| LED1 |	  		   |	Laag   	   | Tri-state     |
+>>	| LED2 | Laag 		   |		   	   | Tri-State     |
+>>	| LED3 |	  		   |			   |			   |
+>>	| LED4 |	  		   |			   |			   |
+>>	| LED5 | Laag 		   |	Tri-state  |			   |
+>>	| LED6 |	  		   |			   |			   |
 >>
 >> Implementeer nu de gevraagde functie. Gebruik een if-then of switch-case functie om de gewenste LED te selecteren. Bouw de schakeling op een prototype (gaatjes) board en sluit deze aan op de PORTD header van het BIGAVR/ UNI-DS6 board. Test de gemaakte functie door bijvoorbeeld een looplicht te implementeren.
 >>
