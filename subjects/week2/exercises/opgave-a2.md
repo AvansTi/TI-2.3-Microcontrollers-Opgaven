@@ -1,4 +1,7 @@
->> ### Opgave A2 - Kennismaken met de LCD module (thuis)
+>> ### Opgave A2 - Kennismaken met de LCD module
+>>
+>> - *Thuis*{: .badge .badge-primary }
+>>{: .tags }
 >>
 >> Op [http://www.dinceraydin.com/djlcdsim/djlcdsim.html](http://www.dinceraydin.com/djlcdsim/djlcdsim.html) is een goede LCD module simulator gegeven. Met behulp van deze simulator kun je relatief eenvoudig de werking bestuderen om later C functies te kunnen ontwikkelen.
 >>
