@@ -1,6 +1,9 @@
->> ### Opgave A2 - Ontwikkelomgeving gereedmaken voor gebruik:
+>> ### Opgave A.2 - Ontwikkelomgeving gereedmaken voor gebruik:
 >>
->> Installeer AVR studio (versie 7), alle benodigde drivers en de BIGAVR/UNI-DS6 flash-programmer software. Maak een nieuw project, kies de juiste microcontroller en selecteer ‘SIMULATOR’.
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
+>> Installeer Microchip studio (versie 7), alle benodigde drivers en de BIGAVR/UNI-DS6 flash-programmer software. Maak een nieuw project, kies de juiste microcontroller en selecteer ‘SIMULATOR’.
 >> Voeg C code toe met daarin een kleine, zelf gemaakte applicatie of gebruik code uit de les. Compileer de code zonder fouten en warnings! Geef antwoord op de onderstaande vragen.
 >>
 >> - **A** Draait de code in de simulator?

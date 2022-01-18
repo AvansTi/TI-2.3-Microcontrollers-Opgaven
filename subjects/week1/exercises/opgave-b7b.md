@@ -1,5 +1,8 @@
 >> ### Keuze B.7b: I/O smart control, tri-state (experienced)
 >>
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
 >> Ondanks het grote aantal I/O poorten van de AtMega128 (met beperkingen en vaak dubbele functies) is er soms/vaak behoefte aan een (veel) groter aantal I/O poorten. Bijvoorbeeld bij het aansturen van matrix displays en/of het aansturen van de 60 ‘seconden leds’ in klok applicaties.
 >>
 >> Onderstaande schakeling laat zien hoe je 6 LEDs kunt aansturen met 3 I/O pinnen (de pinnen Pin 1 t/m Pin 3). Deze manier van aansluiten staat ook bekend onder de naam charlieplexing (1995, Charlie Allen). Charlieplexing maakt het bijvoorbeeld mogelijk om 90 LEDs aan te sturen met slechts 10 I/O pinnen!

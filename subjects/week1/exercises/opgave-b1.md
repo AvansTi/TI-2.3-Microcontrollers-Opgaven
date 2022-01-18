@@ -1,4 +1,7 @@
->> ### Opgave B1 - Uit de literatuur (Deze opdracht kan je thuis uitvoeren, voor daar ook uit ivm tijd!):
+>> ### Opgave B.1 - Uit de literatuur:
+>>
+>> - *Thuis*{: .badge .badge-primary }
+>>{: .tags }
 >>
 >> Beantwoord de volgende vragen vanuit de literatuur
 >>

@@ -1,5 +1,8 @@
 >> ### Keuze B.7a Coding Finite State Machines (experienced) [Kan op simulator] 
 >>
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
 >> Implementeer onderstaande ‘eindige toestandsmachine’ (eng: finite state machine of fsm) . Een fsm is de basis van bijna elke embedded applicatie. Koffiemachines, televisies, pacemakers, ABS computers, alarmsystemen enz. zijn voorbeelden van applicaties waar de main-loop vaak bestaat uit een (ingewikkelde) eindige toestandsmachine.
 >>
 >> Een fsm machine kan uitgroeien tot iets ingewikkelds en het is van belang dat software engineers (jij!) grip hebben op een correcte werking. Denk ook aan uitbreidbaarheid en onderhoudbaarheid. Interessant is ook het artikel op Blackboard over het aantal regels code in alledaagse apparaten.

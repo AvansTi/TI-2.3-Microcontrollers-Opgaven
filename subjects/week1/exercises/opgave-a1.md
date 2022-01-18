@@ -1,4 +1,7 @@
->> ### Opgave A1 - Bij de opstart
+>> ### Opgave A.1 - Bij de opstart
+>>
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
 >>
 >> Verzamel de materialen (BIGAVR6 / UNI-DS6 development board, 1 stuks per tweetal). Verkrijgbaar bij de uitleenbalie.
 >>
