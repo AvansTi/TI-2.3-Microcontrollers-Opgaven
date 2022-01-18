@@ -29,8 +29,9 @@ Relevante literatuur:
 
 
 ### Deel A: Kennismaking met het BIGAVR6 / UNI-DS6 board
-{% include_relative exercises/getting-started.md %}
-{% include_relative exercises/development-env.md %}
+{% include_relative exercises/opgave-a1.md %}
+{% include_relative exercises/opgave-a2.md %}
+{% include_relative exercises/opgave-a3.md %}
 {: .exercises }
 
 ### Deel B: Coding assignments:
@@ -42,12 +43,12 @@ Andere suggesties:
 * Kijk eens naar de informatie op de AVR Freaks website (avrfreaks.net). Check ook het forum van AVR Freaks.
 
 
-{% include_relative exercises/literature.md %}
-{% include_relative exercises/b2.md %}
-{% include_relative exercises/b3.md %}
-{% include_relative exercises/b4.md %}
-{% include_relative exercises/b5.md %}
-{% include_relative exercises/b6.md %}
-{% include_relative exercises/b7a.md %}
-{% include_relative exercises/b7b.md %}
+{% include_relative exercises/opgave-b1.md %}
+{% include_relative exercises/opgave-b2.md %}
+{% include_relative exercises/opgave-b3.md %}
+{% include_relative exercises/opgave-b4.md %}
+{% include_relative exercises/opgave-b5.md %}
+{% include_relative exercises/opgave-b6.md %}
+{% include_relative exercises/opgave-b7a.md %}
+{% include_relative exercises/opgave-b7b.md %}
 {: .exercises }
