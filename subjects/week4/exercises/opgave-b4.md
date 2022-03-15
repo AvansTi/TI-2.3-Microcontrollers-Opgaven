@@ -1,4 +1,4 @@
->> ### Opgave B.4: ADC tempratuur
+>> ### Opgave B.4: ADC temperatuur
 >>
 >> - *School*{: .badge .badge-primary }
 >>{: .tags }
