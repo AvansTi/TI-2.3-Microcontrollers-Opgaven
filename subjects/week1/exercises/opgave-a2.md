@@ -9,6 +9,6 @@
 >> - **A** Draait de code in de simulator?
 >> - **B** Hoe kun je zien of de code de juiste I/O aanstuurt?
 >>
->> Verbindt het BIGAVR6 / UNI-DS6 board met je laptop middels de USB kabel. Het AVR board wordt gevoed uit de USB poort. Start de flash-programmer software en selecteer de correct microcontroller, de juiste klokfrequentie (8MHz). Programmeer de microcontroller. Check of de microcontroller de geprogrammeerde code correct uitvoert. 
+>> Verbindt het BIGAVR6 / UNI-DS6 board met je laptop middels de USB kabel. Het AVR board wordt gevoed uit de USB poort. Start de flash-programmer software en selecteer de correct microcontroller, de juiste klokfrequentie (8 MHz of 10 MHz als je de externe klok gebruikt). Programmeer de microcontroller. Check of de microcontroller de geprogrammeerde code correct uitvoert. 
 >>
 >{: .exercise}
