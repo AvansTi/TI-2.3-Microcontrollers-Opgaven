@@ -34,6 +34,7 @@ Relevante literatuur:
 {% include_relative exercises/opgave-a3.md %}
 {: .exercises }
 
+
 ### Deel B: Coding assignments:
 
 Bestudeer de AVR128 documentatie. Raak er vertrouwd mee en zorg dat je vlot relevatie informatie kunt vinden, dit levert tijdwinst op. Neem hiervoor de tijd. Wat is er allemaal, waar staat wat, ..!
