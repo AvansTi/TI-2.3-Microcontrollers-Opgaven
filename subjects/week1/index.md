@@ -10,11 +10,11 @@ todo:
 ## Week 1
 
 Beschrijf in een korte en bondige rapportage de uitwerking van de gemaakte opdrachten. Dit betekent per opdracht:
-* 2 a 3 zinnen met essentie van de opdracht
-* In het kort de gekozen oplossing aangevuld met essentiële code fragmenten (dus geen lappen code kopiëren!)
-* Reflectie op de gekozen oplossing aangevuld met ‘bewijs’ in de vorm van een foto en/of film (url’s naar bijvoorbeeld YouTube of MyMedia. Zorg dat wij ook toegang hebben!)
+* 2 a 3 zinnen met de essentie van de opdracht.
+* In het kort de gekozen oplossing aangevuld met essentiële code fragmenten (dus geen lappen code kopiëren!).
+* Reflectie op de gekozen oplossing aangevuld met ‘bewijs’ in de vorm van een foto en/of film (url’s naar bijvoorbeeld YouTube of MyMedia. Zorg dat wij ook toegang hebben!).
 * Link naar de repository waar de volledige code staat.
-* Alle code is voorzien zijn van zinvol commentaar.
+* Alle code is voorzien van zinvol commentaar.
 
 Zet al jullie werk in een groeidocument. In week 2 heb je de mogelijkheid om feedback te vragen. 
 
